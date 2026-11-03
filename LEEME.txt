@@ -1,0 +1,24 @@
+ATLAS/27 — 30 candidaturas para 2027/28
+======================================
+
+ARCHIVOS
+- index.html: Atlas anterior actualizado, con enlace “Mis 30 candidaturas”.
+- candidaturas.html: listado de las 30 candidaturas, búsqueda y exportar CSV.
+- masters/: 30 HTML distintos, uno por máster, con materias y checklists.
+- listado_30_candidaturas.csv: auditoría de las fichas.
+
+PUBLICACIÓN CON GITHUB PAGES
+Sube el contenido de esta carpeta a la raíz del repositorio, manteniendo “masters” como carpeta.
+Selecciona Settings > Pages > Deploy from a branch > main > / (root).
+
+USO LOCAL
+Descomprime el ZIP y abre index.html o candidaturas.html. El checklist intenta persistir con localStorage del navegador; en modo archivo local algunos navegadores no lo mantienen. GitHub Pages da almacenamiento por origen del navegador.
+
+METODOLOGÍA
+Orden editorial por prestigio institucional y formación técnica, no ranking científico.
+Los porcentajes son bandas subjetivas NO calibradas, no admiten interpretación probabilística oficial.
+Asignaturas: para grandes programas flexibles se lista la estructura y materias verificadas y se enlaza el catálogo oficial exhaustivo, evitando inventar cientos de optativas.
+Las fechas marcadas “por confirmar” NO son fechas oficiales de 2027/28.
+
+PRIVACIDAD
+Esta versión incluye en el Atlas una nota media, ahorro, empleo y referencias del CV. No conviene subirla a un repositorio público sin eliminar esos datos.
